@@ -1,0 +1,32 @@
+body {
+       padding:20px;
+}
+     
+head{
+    color: purple; 
+    padding: 25px;
+    font size: 30px;
+    font-family: Tahoma;
+    float: left;
+}
+h1 {
+    color: gray; padding: 15px;
+    color: purple; 
+    padding: 25px;
+    font size: 30px;
+    font-family: Tahoma;
+    float: left;
+}
+}
+     
+p {
+   color: red;
+}
+   
+table {
+       border: 1px
+}
+       
+tr { }
+
+td{ }
